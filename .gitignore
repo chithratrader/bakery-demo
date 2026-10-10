@@ -1,0 +1,40 @@
+# Secrets
+.env
+.env.*
+*.pem
+*.key
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
+
+# Package / dependency folders
+package/
+bakery-demo/
+packages/
+node_modules/
+venv/
+.venv/
+env/
+site-packages/
+
+# Python junk
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
