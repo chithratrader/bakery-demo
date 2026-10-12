@@ -1,0 +1,44 @@
+# Knowledge file for the portfolio assistant.
+# One topic per paragraph, with a blank line between paragraphs.
+# Paragraphs that start with # are ignored, so you can keep notes and drafts here.
+# Replace Chithra with your name (Ctrl+H in VS Code).
+# Employer names and exact dates are left out on purpose, to match the website.
+# Anything written here can be repeated to visitors, so keep it safe to make public.
+
+Chithra is a DevOps and cloud automation engineer with about six years of experience in DevOps, release and deployment engineering across public services and ecommerce. Their focus is automated build and deployment, zero-downtime releases, server optimisation and configuration management. They also build AI assistants for small businesses.
+
+Current role: Cloud Automation Engineer. Chithra builds and maintains automation for cloud infrastructure management and deployments, designs infrastructure as code with Terraform and Ansible, brings automation into CI/CD pipelines for faster and more reliable releases, automates provisioning, configuration management, scaling and disaster recovery workflows, and sets up monitoring to improve reliability and cost efficiency.
+
+Previous role: DevOps Engineer. Ran continuous deployment for high-traffic, high-transaction web applications. Implemented AWS Control Tower, integrated it with Security Hub and resolved the findings, reducing security incidents. Designed a Docker-based CI/CD pipeline with Jenkins and Bitbucket, built Jenkinsfiles and GitHub webhooks, created a standalone Docker Compose environment for testers and developers, orchestrated environments with Kubernetes and Helm charts, and ran Kubernetes clusters with Prometheus, Grafana and the ELK stack for monitoring and alerting. Also worked with ETL tools (Glue, Step Functions), event streaming (Kafka/MSK, Kinesis), APIs and message queues, wrote Python Lambda functions for automation, and worked with external stakeholders on reliability, security and compliance.
+
+Earlier cloud role: Cloud Engineer. Deployed AWS security tools (WAF, GuardDuty, Inspector) integrated with Security Hub and reduced findings. Worked through Microsoft Defender for Cloud recommendations for AWS. Built CI/CD pipelines and infrastructure as code. Analysed AWS cost and usage across accounts and removed unused resources. Configured IAM SSO with Terraform, mapped to Azure directory users, and imported manually created resources into infrastructure as code. Created accounts with AWS Control Tower with MFA. Managed infrastructure with CloudFormation and Terraform, and handled monitoring, alerting, disaster recovery and incident response. Worked on projects with Docker and Kubernetes.
+
+Early software engineering career: started as an intern and then became an Associate Software Engineer. Migrated applications to the cloud including storage migration, built Jenkins CI/CD pipelines, deployed and maintained production Docker containers with automated monitoring and recovery, managed configuration with Ansible, deployed resources with Terraform, wrote Python modules to extract and load data from MySQL, and developed with MS SQL, ASP.NET, C#, HTML, CSS and JavaScript.
+
+Background before engineering: several years in customer service, technical support and IT administration. The work included troubleshooting mobile, broadband and email issues, diagnosing line faults, working with VoIP, SIP, PSTN, IVR and call routing, meeting performance targets, and keeping technical documentation in Confluence. This is why Chithra explains technical topics in plain language.
+
+Cloud skills: AWS with more than 50 services, including S3, EC2, Lambda, Route 53, SES, IAM, VPC, CloudWatch, CloudTrail, SNS, SQS, KMS, DynamoDB, Redshift, EventBridge, RDS, Aurora, ECS, EKS and ECR. Also Azure (AKS, Azure DevOps) and Google Cloud.
+
+Cloud security skills: Security Hub, Control Tower, GuardDuty, Inspector, WAF, Macie, IAM and SSO, and Microsoft Defender for Cloud.
+
+Infrastructure as code and configuration management skills: Terraform, CloudFormation, AWS CDK with TypeScript, and Ansible.
+
+Container skills: Docker, Docker Compose, Kubernetes and Helm. Holds the Certified Kubernetes Administrator certification.
+
+CI/CD skills: Jenkins, GitHub Actions, GitHub, GitLab, Bitbucket and Azure DevOps, with releases to UAT, QA, staging and production environments.
+
+Monitoring and observability skills: Prometheus, Grafana, Datadog, the ELK stack with Kibana, and Splunk.
+
+Programming and database skills: Python, Bash, PowerShell, JavaScript, C# and ASP.NET. Databases include PostgreSQL, MS SQL, MySQL and Couchbase. Systems include Linux (including Red Hat access provisioning with Active Directory) and Windows. Tools include Jira, ServiceNow and Postman.
+
+Certifications: Certified Kubernetes Administrator (CKA), HashiCorp Certified Terraform Associate (003), AWS Certified Cloud Practitioner, and Google Cloud Certified Associate Cloud Engineer. Four certifications in total.
+
+Education: Diploma in Computing (NZQA Level 7) from the National Technology Institute in Auckland, New Zealand, 2015, and a Bachelor of Technology in Information Technology from Anna University, India, 2012.
+
+AI assistant work: Chithra builds retrieval-based chat assistants for small businesses under the name Lumen Desk. An assistant answers customers' questions using only the business's own information and says when it doesn't know. It runs serverless on AWS Lambda with the Groq language model API, LangChain and keyword search (BM25) over a knowledge file, and appears on a website through a JavaScript chat widget. Next on the roadmap are vector search with embeddings, conversation memory, booking and calendar agents, and email notifications.
+
+About this assistant: it is an AI that answers from a short knowledge file about Chithra, hosted on AWS Lambda. It can make mistakes, so important details should be confirmed directly. It is not designed to collect personal information.
+
+Contact and private details: Chithra does not publish an email address or phone number. For interviews, opportunities, availability, salary expectations, location, work rights, notice period, employer names, exact dates or references, please use the Contact page on this website and they will reply directly. References are available on request.
+
+
